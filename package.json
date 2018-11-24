@@ -18,5 +18,18 @@
   "devDependencies": {
     "jest": "^23.6.0",
     "watch": "^1.0.2"
-  }
+  },
+  "workspaces": [
+    "support/eulalie",
+    "00 Introductions",
+    "01 Tokens",
+    "02 Basic Parsing",
+    "03 Expressive Parsing",
+    "04 Generate You A JavaScript",
+    "05 Generate You What You Want",
+    "06 Let It Be",
+    "07 Parser Combinators",
+    "08 FP Parsing"
+  ],
+  "private": true
 }
